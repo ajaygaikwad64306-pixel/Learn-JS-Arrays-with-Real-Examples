@@ -33,7 +33,19 @@ The project demonstrates:
 project-folder/
 │── index.html
 │── array.js
+│── JavaScript Array Method.png
 │── README.md
+
+<p align="center">
+  <img src="logo.png" width="150" />
+</p>
+## 📸 Screenshots
+
+### Console Output
+![Console Output](screenshots/console-output.png)
+
+### Project Structure
+![Project Structure](screenshots/folder-structure.png)
 
 
 ---
